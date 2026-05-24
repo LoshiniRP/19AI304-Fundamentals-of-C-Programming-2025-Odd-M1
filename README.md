@@ -22,8 +22,6 @@ Step 4: Stop<br>
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd
-# IAPR-1- Module 1 - FoC
 # Ex.No:2
   Build a C program to display the value of a macro constant and a constant variable.
 ## Date : 22.04.2026
@@ -44,8 +42,6 @@ Step 6: Stop<br>
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd
-# IAPR-1- Module 1 - FoC
 # Ex.No:3
   Build a C program to demonstrate the use of different data types such as int, float, double, and char, and display their values using printf().
 ## Date :  22.04.2026
@@ -61,8 +57,7 @@ Step 5: Stop<br>
 ## Output:
 ## Result: 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd
-# IAPR-1- Module 1 - FoC
+
 # Ex.No:4
   Build a C program to perform arithmetic and bitwise operations on two integers entered by the user. The program should display: Arithmetic operations: addition, subtraction, multiplication, division, and remainder. Bitwise operations: AND, OR, XOR, left shift, right shift, and NOT.
 ## Date :  22.04.2026
@@ -94,8 +89,6 @@ Step 8: Stop<br>
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd
-# IAPR-1- Module 1 - FoC
 # Ex.No:5
   Develop a C program to check whether a given character is a vowel, consonant, digit, or special symbol using the ternary operator.
 ## Date :  22.04.2026
